@@ -33,7 +33,7 @@ router.get('/', async (req, res) => {
                 },
                 printQRInTerminal: false,
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
-                browser: ["Chrome (Linux)", "", ""]
+                browser: ["Chrome (SILVA)", "", ""]
              });
              if(!Pair_Code_By_Maher_Zubair.authState.creds.registered) {
                 await delay(1500);
@@ -57,25 +57,25 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'Gifted;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
+*✅SESSION PAIRER✅*
 *Made With 💜*
-*By ɢɪғᴛᴇᴅ ᴛᴇᴄʜ💜*
+*By ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐💜*
 ____________________________________
 ╔════◇
-║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 』
+║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐ 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/mouricedevs/Gifted-Md_
+║❒ WA CHANNEL: _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/254700143167_
+║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Sylivanu_
 ║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/Cv3dRoX0q1dAfKs7OOkJTW_
 ║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
 ║ 💜💜💜
 ╚════════════════════╝ 
- *©²⁰²⁴ ᴳᴵᶠᵀᴱᴰ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ*
+ *¢⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo`
