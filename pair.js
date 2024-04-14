@@ -70,9 +70,9 @@ ____________________________________
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ WA CHANNEL: _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_
 ║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/254700143167_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Sylivanu_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/Cv3dRoX0q1dAfKs7OOkJTW_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
+║❒ Github: _https://github.com/Sylivanu_
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/BD1qR9xxHNj0eACFdT7Ijm_
+║❒ Github: _https://github.com/SilvaTechB_
 ║ 💜💜💜
 ╚════════════════════╝ 
  *¢⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐*
