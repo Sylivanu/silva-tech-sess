@@ -40,7 +40,7 @@ router.get('/', async (req, res) => {
 				logger: pino({
 					level: "silent"
 				}),
-				browser: Browsers.macOS("Desktop"),
+				browser: Browsers.Silva("Desktop"),
 			});
 
 			Qr_Code_By_Maher_Zubair.ev.on('creds.update', saveCreds)
@@ -59,10 +59,29 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: 'Gifted;;;' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*_Qr Code By ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐_*
-*_Made With 🤍_*
-	
-_Don't Forget To Give Star To My Repo_`
+
+*✅SESSION PAIRER✅*
+*Made With 💜*
+*By ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐💜*
+____________________________________
+╔════◇
+║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 ⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐ 』
+║ You've Completed the First Step
+║ to Deploy a Whatsapp Bot.
+╚════════════════════╝
+╔═════◇
+║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ WA CHANNEL: _https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/254700143167_
+║❒ Github: _https://github.com/Sylivanu_
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/BD1qR9xxHNj0eACFdT7Ijm_
+║❒ Github: _https://github.com/SilvaTechB_
+║ 💜💜💜
+╚════════════════════╝ 
+ *¢⏤͟͟͞͞★𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋²⁰²⁴࿐*
+___________________________________
+
+Don't Forget To Give Star⭐ To My Repo`
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
 
