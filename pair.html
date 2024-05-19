@@ -12,7 +12,55 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: #33475b; /* Dark tech-like background color */
+      background: linear-gradient(270deg, #0fffc1, #7e0fff);
+  background-size: 200% 200%;
+  -webkit-animation: animateGlow 10s ease infinite;
+          animation: animateGlow 10s ease infinite;
+}
+@-webkit-keyframes animateGlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes animateGlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-webkit-keyframes textColor {
+  0% {
+    color: #7e0fff;
+  }
+  50% {
+    color: #0fffc1;
+  }
+  100% {
+    color: #7e0fff;
+  }
+}
+@keyframes textColor {
+  0% {
+    color: #7e0fff;
+  }
+  50% {
+    color: #0fffc1;
+  }
+  100% {
+    color: #7e0fff;
+  }
+      }
       font-family: Arial, sans-serif;
     }
 
